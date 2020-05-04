@@ -26,6 +26,7 @@ Requirements for inclusion:
 
 ## Notable Vendors
 
+```
      vendor      | project_count 
 -----------------+---------------
  spryker         |           691
@@ -38,9 +39,11 @@ Requirements for inclusion:
  heimrichhannot  |           216
  alibabacloud    |           205
  ride            |           205
+```
 
 Most disk space used:
 
+```
      vendor      | gigabytes 
 -----------------+-----------
  php-extended    |      8.79
@@ -55,6 +58,6 @@ Most disk space used:
  i9code          |      0.89
 -----------------+-------------
                        23.15 GB [7.4% of total]
-
+```
 
 Archivist: Theodore R. Smith <https://www.twitter.com/hopeseekr>
