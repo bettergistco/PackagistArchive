@@ -1,6 +1,6 @@
 # Packagist Archive: 2021-12-31
 
-[**Torrent Link (48 GB)**]()
+[**Torrent Link (48 GB)**](https://github.com/bettergistco/PackagistArchive/releases/download/2021-12-31/bettergist-2021.12.31.torrent)
 
 This archive contains virtually every still-alive and thousands of dead packages published to packagist.
 
