@@ -84,6 +84,8 @@ Vendors who have projects that are 137.56 MB or more in disk space.
 |  nalyk              |          1 |   299.45 |           1 |      149.7266 |
 |  legalinc           |          1 |   297.91 |           1 |      148.9551 |
 
+* Disk space used by all (440,000+) of Packagist.org projects? **699,648 MB**
+* Disk space used by Biggest 481? **163,425 MB (23.36%)**
 
 
 SQL used:
