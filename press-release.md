@@ -8,7 +8,9 @@ The Bettergist Archive Project announced today the successful entombment of the 
 
 The archive was sealed in a waterproof, enclosure and concealed within a natural crevice between boulders at the edge of the Red Pyramid complex in a pile of existing boulders on April 21, 2026. The burial was documented in full and the photo and video record committed to the [Packagist Archive GitHub project](https://github.com/bettergistco/PackagistArchive).
 
-![Bettergist 2026.Q1 USB](https://private-user-images.githubusercontent.com/1125541/582984037-03d95ad9-2ed4-4743-8cbe-61881fec1fff.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5Nzk0NjksIm5iZiI6MTc3Njk3OTE2OSwicGF0aCI6Ii8xMTI1NTQxLzU4Mjk4NDAzNy0wM2Q5NWFkOS0yZWQ0LTQ3NDMtOGNiZS02MTg4MWZlYzFmZmYucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDQyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA0MjNUMjExOTI5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDU4NmIzOTc4NTQxMzg3ZGY3OWM2YWQ2ZjY4NGZlMjNhODE2ZDMxOTc3OWI0ZmI1NTNmMDc3NzQ0YWQzOTM3MiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGcG5nIn0.D9fj1v54QIP1AyDuAWKOyBPh7GrxqdttnGTXVyvIczM)
+Photo of actual archival location: https://github.com/bettergistco/PackagistArchive/blob/trunk/Red%20Pyramid%20Bettergist%20Location.jpg
+
+Video of the archival USB on site: https://github.com/bettergistco/PackagistArchive/raw/refs/heads/trunk/Red%20Pyramid%20Bettergist.mp4
 
 > *"We talk a great deal about digital preservation and treat it as a software problem. It isn't — it's a physics problem. If the power goes out long enough, the software doesn't matter. The only honest answer is physical media, geographically distributed, in locations chosen to survive what we cannot predict."*
 >
@@ -20,7 +22,7 @@ The Bettergist Archive is the only known project performing quarterly PHPStan st
 
 The 2026 Q1 capsule contains a bootable Debian 13 live USB environment hosting a full Kiwix offline Wikipedia mirror and a curated library of 500 books selected for post-collapse civilization rebuilding, alongside the complete Packagist archive. The drive is formatted with BTRFS, duplicated metadata, and zstd compression, with dual bootloaders for maximum hardware compatibility.
 
-![Red Pyramid](https://private-user-images.githubusercontent.com/1125541/582984113-f603260b-f66c-48c9-87ad-929c877512ac.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5Nzk1NzcsIm5iZiI6MTc3Njk3OTI3NywicGF0aCI6Ii8xMTI1NTQxLzU4Mjk4NDExMy1mNjAzMjYwYi1mNjZjLTQ4YzktODdhZC05MjljODc3NTEyYWMuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDQyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA0MjNUMjEyMTE3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2Q1NGQ1OWQxYjg3YzcyNmVlZjUxNzJhMGNhN2YyZGVmNWI1ZGYwZjMzNzkwMTFiOTlkYjM0ODExMjEzN2ZhNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.ixOosAUgorWP084bFHo93aNn6zrpMySiXZedn440kqY)
+![Red Pyramid](https://github.com/bettergistco/PackagistArchive/blob/trunk/Red%20Pyramid.jpg?raw=true)
 
 ---
 
