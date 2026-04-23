@@ -18,6 +18,8 @@ Requirements for inclusion:
 * [hautelook/alice-bundle](https://packagist.org/packages/bettergist/hautelook-alice-bundle)
 * [caouecs/laravel-lang](https://packagist.org/packages/bettergist/caouecs-laravel-lang)
 
+![Bettergist 2026.Q1 USB](https://private-user-images.githubusercontent.com/1125541/582984037-03d95ad9-2ed4-4743-8cbe-61881fec1fff.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5Nzk0NjksIm5iZiI6MTc3Njk3OTE2OSwicGF0aCI6Ii8xMTI1NTQxLzU4Mjk4NDAzNy0wM2Q5NWFkOS0yZWQ0LTQ3NDMtOGNiZS02MTg4MWZlYzFmZmYucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDQyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA0MjNUMjExOTI5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDU4NmIzOTc4NTQxMzg3ZGY3OWM2YWQ2ZjY4NGZlMjNhODE2ZDMxOTc3OWI0ZmI1NTNmMDc3NzQ0YWQzOTM3MiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGcG5nIn0.D9fj1v54QIP1AyDuAWKOyBPh7GrxqdttnGTXVyvIczM)
+
 ## Not Include In The Bettergist Backup
 * All packages in the 99.9 Percentile of disk space (137.50 MB): 477 packages (167 GB [30.54% of total open source PHP space]).
 
